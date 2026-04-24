@@ -1,9 +1,5 @@
 package com.narxoz.rpg.state;
 
-<<<<<<< HEAD
-public class StunnedState {
-}
-=======
 import com.narxoz.rpg.combatant.Hero;
 
 public class StunnedState implements HeroState {
@@ -47,4 +43,3 @@ public class StunnedState implements HeroState {
         return false;
     }
 }
->>>>>>> 2f43ed2 (1)

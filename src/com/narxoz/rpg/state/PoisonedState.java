@@ -1,9 +1,5 @@
 package com.narxoz.rpg.state;
 
-<<<<<<< HEAD
-public class PoisonedState {
-}
-=======
 import com.narxoz.rpg.combatant.Hero;
 
 public class PoisonedState implements HeroState {
@@ -48,4 +44,3 @@ public class PoisonedState implements HeroState {
         return true;
     }
 }
->>>>>>> 2f43ed2 (1)
